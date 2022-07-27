@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
+    /* background-image: repeating-linear-gradient(to right top, #aeeca2, #71cda2, #3dac9f, #198a93, #17687d);
+    background-origin: content-box;
+    /* background-repeat: no-repeat; */
+    /* position: relative;
+      */
+
+}
